@@ -1,9 +1,6 @@
 import static org.testng.Assert.assertEquals;
-import Foundation.LoadDelimitedFile;
 
-public class ReadDelimitedFileTest {
-
-        Stub.LoadDelimitedFile loadDelimitedFile = new Stub.LoadDelimitedFile();
+public class ReadDelimitedFileTest extends ReadDelimitedFile {
 
         @Test
         void getFileDataFirstLineFirstColumn() {

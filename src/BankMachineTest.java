@@ -9,3 +9,4 @@ public class BankMachineTest {
         assertEquals(100, mockPrintBalance.initialBalance());
     }
 }
+
