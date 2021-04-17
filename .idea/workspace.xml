@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="48f1785a-438a-4ac4-a734-ce9b3b0fe935" name="Default Changelist" comment="quick change of error" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="XML Properties File" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+        <option value="TestNG Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1r2RzzpAybDQLFYV1qiBuCHIj9q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="TestNG" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+      <recent name="BankMachine" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.LogIn">
+    <configuration name="BankMachine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BankMachine" />
+      <module name="TSIAssignment" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogIn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LogIn" />
+      <module name="TSIAssignment" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LogIn" />
+        <item itemvalue="Application.BankMachine" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48f1785a-438a-4ac4-a734-ce9b3b0fe935" name="Default Changelist" comment="" />
+      <created>1618172466319</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618172466319</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1618196784535</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1618196784535</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial Commit">
+      <created>1618197134886</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1618197134886</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial Commit">
+      <created>1618197191332</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1618197191332</updated>
+    </task>
+    <task id="LOCAL-00004" summary="quick change of error">
+      <created>1618509747142</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1618509747142</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <MESSAGE value="quick change of error" />
+    <option name="LAST_COMMIT_MESSAGE" value="quick change of error" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="446" y="42" key="#com.intellij.ide.util.MemberChooser" timestamp="1618185209726">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="42" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1618185209726" />
+    <state x="371" y="117" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1618193681928">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="117" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1618193681928" />
+    <state x="371" y="166" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1618193677056">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="166" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1618193677056" />
+    <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1618182683224">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1618182683224" />
+    <state x="171" y="0" key="DBNavigator.ProjectSettingsDialog" timestamp="1618174016862">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="171" y="0" key="DBNavigator.ProjectSettingsDialog/0.0.1280.680@0.0.1280.680" timestamp="1618174016862" />
+    <state x="421" y="58" key="FileChooserDialogImpl" timestamp="1618175033846">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="58" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1618175033846" />
+    <state width="492" height="360" key="Git.Branch.Popup" timestamp="1618655493118">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="492" height="360" key="Git.Branch.Popup/0.0.1280.680@0.0.1280.680" timestamp="1618655493118" />
+    <state x="507" y="239" key="Github.ShareDialog" timestamp="1618196511807">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="507" y="239" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1618196511807" />
+    <state x="402" y="39" key="Github.UntrackedFilesDialog" timestamp="1618196524738">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="402" y="39" key="Github.UntrackedFilesDialog/0.0.1280.680@0.0.1280.680" timestamp="1618196524738" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1618197551983">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1618197551983" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1618197551983">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1618197551983" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1618197551982">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1618197551982" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1618197551983">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1618197551983" />
+    <state x="0" y="0" width="1280" height="680" key="SettingsEditor" timestamp="1618191588215">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" width="1280" height="680" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1618191588215" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1618655271609">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1618655271609" />
+    <state x="376" y="268" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1618193649808">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="376" y="268" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.680@0.0.1280.680" timestamp="1618193649808" />
+    <state x="412" y="147" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1618195909868">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="412" y="147" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.680@0.0.1280.680" timestamp="1618195909868" />
+    <state x="297" y="151" key="run.anything.popup" timestamp="1618182320850">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1618182320850" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1618184563882">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1618184563882" />
+  </component>
+</project>
